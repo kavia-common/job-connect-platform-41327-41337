@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/job-connect-platform-41327-41337/career_platform_database"
+}
